@@ -30,6 +30,10 @@ function App() {
     if (pullo<=0) {
       setTulos(0)
     }
+    if (promilletJäljellä<=0) {
+      setTulos(0)
+    }
+
   }
 
   return (
